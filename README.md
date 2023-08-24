@@ -14,6 +14,8 @@ Login with Google & Login with Facebook is also enabled for attracting more user
 
 ## Requirements:
 
+  sudo pip install python-django
+
   pip install django-allauth
   
   pip install django-ckeditor
